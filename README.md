@@ -1,27 +1,21 @@
-# MyPortfolioWeb
+# Portfolio
+---
+# 🚀 Sobre mí
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
+Desarrollador en formación, actualmente estoy potenciando mi perfil como **Desarrollador Fullstack** enfocado en el ecosistema **JavaScript (React.js)**, gestión de datos con **SQL** y arquitecturas modernas.
 
-## Development server
+Me encuentro en una etapa de especialización técnica, complementándola con el fortalecimiento de habilidades clave como la **comunicación asertiva, la disciplina y la autogestión**.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Al día de hoy, desarrollo proyectos propios que me permiten aterrizar conceptos complejos de programación y mejorar mis habilidades de comunicación técnica.
+---
 
-## Code scaffolding
+### 🛠️ Mi Stack Tecnológico
+![JavaScript](img.shields.io)
+![React](img.shields.io)
+![SQL](img.shields.io)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### 📂 Proyectos en los que estoy aplicando este enfoque:
+- **[sistema de gestion de estudiantes]<https://api-gestion-estudiantes-frontend.vercel.app/>**: Aplicación CRUD diseñada para la administración académica. Permite el registro, edición y visualización segmentada de alumnos por carrera. El proyecto está estructurado de forma escalable para integrar módulos de asistencia y gestión de calificaciones.
+- Enfoque técnico: Implementación de lógica de estados compleja y hooks personalizados en React para la manipulación dinámica de datos.

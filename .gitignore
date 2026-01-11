@@ -1,42 +1,24 @@
-# See http://help.github.com/ignore-files/ for more about ignoring files.
+# Dependencias y logs
+node_modules/
+dist/
+build/
+*.log
+.eslintcache
 
-# Compiled output
-/dist
-/tmp
-/out-tsc
-/bazel-out
+# Seguridad (Variables de entorno)
+.env
+.env.local
+.env.*.local
 
-# Node
-/node_modules
-npm-debug.log
-yarn-error.log
-
-# IDEs and editors
-.idea/
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
-
-# Visual Studio Code
+# Editores y Sistema
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
 !.vscode/extensions.json
-.history/*
-
-# Miscellaneous
-/.angular/cache
-.sass-cache/
-/connect.lock
-/coverage
-/libpeerconnection.log
-testem.log
-/typings
-
-# System files
+.idea/
 .DS_Store
 Thumbs.db
+*.swp
+
+# Residuos de migración (Angular legacy)
+/.angular/
+/out-tsc/
+/tmp/
